@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-12-08T12:43:35.688+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/patients/a1f1c2d3-4b55-4c9e-9d10-112233445501"
+}
