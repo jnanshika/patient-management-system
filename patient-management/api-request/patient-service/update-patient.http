@@ -1,5 +1,6 @@
 ### Updates a new patient entity
-PUT http://localhost:4000/patients/0202b81c-4dba-465d-9756-7414580fa18c
+PUT http://localhost:4004/api/patients/0202b81c-4dba-465d-9756-7414580fa18c
+Authorization: Bearer {{token}}
 Content-Type: application/json
 
 {

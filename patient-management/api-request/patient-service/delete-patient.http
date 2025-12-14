@@ -1,5 +1,5 @@
 ### Delete a patient
 
-DELETE http://localhost:4000/patients/9175c313-3b5f-40e2-9db4-af65a2e0dfc9
-
+DELETE http://localhost:4004/api/patients/9175c313-3b5f-40e2-9db4-af65a2e0dfc9
+Authorization: Bearer {{token}}
 ###
